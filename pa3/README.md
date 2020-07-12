@@ -3,7 +3,7 @@
 ### Arnav Guneta
 
 #### Description
-Refer to the README for PA2 [READEME.md for PA2](https://github.com/arnavguneta/1070CPSC/blob/master/pa2/README.md)PA3 implements a Dealership class that keeps track of a dealer’s vehicle inventory. It reads in data from a file (using a file pointer) specified as a command-line argument.
+Refer to the [READEME.md](https://github.com/arnavguneta/1070CPSC/blob/master/pa2/README.md) for PA2. PA3 implements a Dealership class that keeps track of a dealer’s vehicle inventory. It reads in data from a file (using a file pointer) specified as a command-line argument.
 
 #### Purpose
 The purpose of this assignment is to give you practice defining and implementing C++ classes. This assignment is related to PA2, consisting of the Car and Truck classes, with a few modifications. There will be the addition of a Vehicle class, which will be a parent class of Car and Truck. Allowed me to implement and practice inheritance and polymorphism.
