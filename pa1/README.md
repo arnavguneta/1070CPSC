@@ -37,4 +37,4 @@ MENU CHOICE: _
 Choose your option and check img.ppm for the updated image!
 
 #### Samples
-![Image of Sample Transformations](/assets/sample.png)
+![Image of Sample Transformations](https://github.com/arnavguneta/1070CPSC/blob/master/pa1/assets/sample.png)
