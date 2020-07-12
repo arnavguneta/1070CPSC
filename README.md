@@ -20,17 +20,18 @@ purple.c - contains the makePurple() function
 
 #### Usage
 Compile and run the mainDriver.c and perform the following command:
+
 `
 ./mainDriver tiger.ppm > img.ppm
 `
 You will be prompted with
-`
+```
 1. original image
 2. mirror image
 3. upside down image
 4. colorize purple
-MENU CHOICE: _`
-
+MENU CHOICE: _
+```
 Choose your option and check img.ppm for the updated image!
 
 #### Samples
