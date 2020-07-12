@@ -1,0 +1,79 @@
+inventory count = 11
+
+id:    t11345
+year:  2000
+make:  International
+model: 9500
+color: Gray
+weight: 52000
+
+id:    c111422
+year:  2014
+make:  Toyota
+model: Corolla
+color: White
+doors:   2
+
+id:    c22222
+year:  2007
+make:  Buick
+model: LaSabre
+color: Red
+doors:   4
+
+id:    c33355
+year:  2014
+make:  Ford
+model: Mustang
+color: Black
+doors:   4
+
+id:    c33784
+year:  2016
+make:  Buick
+model: LaCrosse
+color: Pearl
+doors:   4
+
+id:    t33444
+year:  2015
+make:  Chevrolet
+model: Silverado
+color: Blue
+weight: 6700
+
+id:    t44577
+year:  2000
+make:  International
+model: 9500
+color: Gray
+weight: 56125
+
+id:    c44223
+year:  2016
+make:  Nissan
+model: Maxima
+color: Pearl
+doors:   2
+
+id:    t55221
+year:  2014
+make:  Toyota
+model: Tundra
+color: Platinum
+weight: 6800
+
+id:    c52323
+year:  2016
+make:  Honda
+model: Accord
+color: Silver
+doors:   4
+
+id:    t66778
+year:  2015
+make:  Nissan
+model: Titan
+color: brown
+weight: 6276
+
