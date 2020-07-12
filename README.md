@@ -24,7 +24,9 @@ Compile and run the mainDriver.c and perform the following command:
 `
 ./mainDriver tiger.ppm > img.ppm
 `
-You will be prompted with
+
+You will be prompted with:
+
 ```
 1. original image
 2. mirror image
