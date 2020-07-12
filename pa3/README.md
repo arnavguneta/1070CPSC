@@ -32,7 +32,7 @@ dealership.cpp – implementation for the dealership class
 driver.cpp – the driver that contains the main()
 
 #### Hierarchy
-![Image of Hierarchy](/assets/hierarchy.png)
+![Image of Hierarchy](https://github.com/arnavguneta/1070CPSC/blob/master/pa3/assets/hierarchy.png)
 
 #### Information about the classes
 ##### Dealership
