@@ -19,10 +19,19 @@ flipHoriz.c - contains the flipHoriz() function
 purple.c - contains the makePurple() function
 
 #### Usage
-transform tiger.ppm > img.ppm
+Compile and run the mainDriver.c and perform the following command:
+'''
+./mainDriver tiger.ppm > img.ppm
+'''
+You will be prompted with
+'''
 1. original image
 2. mirror image
 3. upside down image
 4. colorize purple
-MENU CHOICE: (choose any to manipulate tiger.ppm file)
+MENU CHOICE: _
+'''
+Choose your option and check img.ppm for the updated image!
 
+#### Samples
+![Image of Sample Transformations](https://github.com/arnavguneta/1070cpsc/assets/sample.png)
