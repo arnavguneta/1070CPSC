@@ -22,7 +22,7 @@ purple.c - contains the makePurple() function
 Compile and run the mainDriver.c and perform the following command:
 
 `
-./mainDriver tiger.ppm > img.ppm
+make run
 `
 
 You will be prompted with:
