@@ -12,13 +12,21 @@ The purpose of this assignment was to practice defining and implementing C++ cla
 
 #### File details
 car.h – the class definition for the car class
+
 truck.h – the class definition for the truck class
+
 tollbooth.h – the class definition for the tollbooth class
+
 toll.txt – a sample data file
+
 car.cpp – implementation for the car class
+
 truck.cpp – implementation for the truck class
+
 tollBooth.cpp – implementation for the tollBooth class
+
 driver.cpp – the driver that contain the main()
+
 
 #### Information about the classes:
 ##### Car
