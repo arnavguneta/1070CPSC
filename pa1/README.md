@@ -3,7 +3,7 @@
 ### Arnav Guneta
 
 #### Description
-a program that manipulates a ppm image in the following ways: mirror image (rotated
+A program that manipulates a ppm image in the following ways: mirror image (rotated
 along a vertical axis); upside down image (rotated along a horizontal axis); and a gray scale image with a slightly purple tint.
 
 #### Purpose
@@ -22,7 +22,7 @@ purple.c - contains the makePurple() function
 Compile and run the mainDriver.c and perform the following command:
 
 `
-./mainDriver tiger.ppm > img.ppm
+make run
 `
 
 You will be prompted with:
